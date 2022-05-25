@@ -14,11 +14,11 @@ Code coming soon...
 ### Citation
 If you use this dataset, please consider citing our work.
 
-@article{chen2022repcd,\\
-  title={RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network},\\
-  author={Chen, Honghua and Wei, Zeyong and Li, Xianzhi and Xu, Yabin and Wei, Mingqiang and Wang, Jun},\\
-  journal={International Journal of Computer Vision},\\
-  pages={1--15},\\
-  year={2022},\\
-  publisher={Springer}\\
+@article{chen2022repcd,  
+  title={RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network},  
+  author={Chen, Honghua and Wei, Zeyong and Li, Xianzhi and Xu, Yabin and Wei, Mingqiang and Wang, Jun},  
+  journal={International Journal of Computer Vision},  
+  pages={1--15},  
+  year={2022},  
+  publisher={Springer}  
 }
