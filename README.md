@@ -1,7 +1,7 @@
 # RePCD-Net: Feature-aware Recurrent Point Cloud Denoising Network
 
 ### Introduction
-This repository is for our International Journal of Computer Vision (IJCV) 2021 paper '[RePCD-Net: Feature-aware Recurrent Point Cloud Denoising Network](https://link.springer.com/article/10.1007/s11263-021-01564-7)'. 
+This repository is for our International Journal of Computer Vision (IJCV) 2022 paper '[RePCD-Net: Feature-aware Recurrent Point Cloud Denoising Network](https://link.springer.com/article/10.1007/s11263-021-01564-7)'. 
 
 ### Denoised result
 We have released some denoised results in our work, please feel free to use them.
