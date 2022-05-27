@@ -6,7 +6,7 @@ This repository is for our International Journal of Computer Vision (IJCV) 2022 
 ### Denoised result
 We have released some denoised results in our work, please feel free to use them.
 
-### Synthtic test dataset
+### Synthetic test dataset
 We have aslo released our synthetic test dataset for an easiser comparison for future researchers. For the quantitative statistics, please refer to the table 2 in this paper. Note also that this dataset is built based on the '[PU-GAN](https://liruihui.github.io/publication/PU-GAN/)'.
 
 Code coming soon...
