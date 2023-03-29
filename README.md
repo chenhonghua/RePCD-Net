@@ -28,7 +28,7 @@ We have aslo released our synthetic test dataset for a easiser comparison for fu
    ```
    You will see the input and output results in the folder `../data/test_data` and `../model/generator2_new6/result/`.
    
-Note: In this approach, we consider the entire input point cloud as a single entity. However, if the input point cloud contains a large number of points, it is advisable to partition it into smaller patches and process each patch individually as separate inputs.
+Note: During the test stage, we consider the entire input point cloud as a single entity. However, if the input point cloud contains a large number of points, it is advisable to partition it into smaller patches and process each patch individually as separate inputs.
 
 
 ### Citation
