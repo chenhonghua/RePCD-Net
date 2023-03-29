@@ -23,7 +23,7 @@ We have aslo released our synthetic test dataset for a easiser comparison for fu
 3. Evaluate the model:
    run:
    ```shell
-   cd code
+   cd codes
    python main.py --phase test
    ```
    You will see the input and output results in the folder `../data/test_data` and `../model/generator2_new6/result/`.
