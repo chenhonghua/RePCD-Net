@@ -9,7 +9,27 @@ We have released some denoised results in our work, please feel free to use them
 ### Synthetic test dataset
 We have aslo released our synthetic test dataset for a easiser comparison for future researchers. For the quantitative statistics, please refer to the table 2 in this paper. Note also that this dataset is built based on the '[PU-GAN](https://liruihui.github.io/publication/PU-GAN/)'.
 
-Code coming soon...
+### Usage
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/chenhonghua/Re-PCD.git
+   cd Re-PCD
+   ```
+2. Compile the TF operators
+   Follow the above information to compile the TF operators. 
+
+3. Evaluate the model:
+   run:
+   ```shell
+   cd code
+   python main.py --phase test
+   ```
+   You will see the input and output results in the folder `../data/test_data` and `../model/generator2_new6/result/`.
+   
+Note: In this version, we treat the whole input point cloud as a single input. If the number of points in your input point cloud is big, you had better divide the input point cloud into patches and treat each patch as a single input.
+
 
 ### Citation
 If you use this dataset, please consider citing our work.
