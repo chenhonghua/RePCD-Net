@@ -26,6 +26,7 @@ Download the training dataset `train_4000_normal_scale_label_weight_61_6.h5` fro
 3. train the model:
    run:
    ```shell
+   cd codes
    python main.py --phase train
    ```
    
