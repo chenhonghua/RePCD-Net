@@ -9,7 +9,7 @@ We have released some denoised results in our work, please feel free to use them
 ### Synthetic test dataset
 We have aslo released our synthetic test dataset for a easiser comparison for future researchers. For the quantitative statistics, please refer to the table 2 in this paper. Note also that this dataset is built based on the '[PU-GAN](https://liruihui.github.io/publication/PU-GAN/)'.
 
-### taining dataset
+### Taining dataset
 Download the training dataset `train_4000_normal_scale_label_weight_61_6.h5` from [here](https://drive.google.com/drive/folders/1xRWZ4eCGGdwQUOMZxIIC8EYZd4tDalWD?usp=sharing). Then put it in the folder `../h5_data`.
 
 ### Usage
